@@ -17,5 +17,6 @@ Technical Stack
 Languages: Python
 Libraries: Pandas, NumPy, Scikit-learn, Streamlit
 Tools: Jupyter Notebook, Git
-![image](https://github.com/RjRaghu/LaptopPricePredictor/assets/104349249/228375dc-e7cb-4778-8a05-1278c8ec3076)
-![image](https://github.com/RjRaghu/LaptopPricePredictor/assets/104349249/ba53c940-863e-467a-a52f-fe3301ae690d)
+![image](https://github.com/RjRaghu/LaptopPricePredictor/assets/104349249/ef72e18c-475d-4571-93f8-79cc41c2fde1)
+![image](https://github.com/RjRaghu/LaptopPricePredictor/assets/104349249/4f50e975-b989-4a52-b356-43bf82006d43)
+
